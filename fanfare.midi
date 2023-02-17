@@ -1,0 +1,32 @@
+X:1
+T:Personal Fanfare for [Your Name]
+C:ChatGPT
+M:4/4
+L:1/8
+K:C
+%%score T1 T2 T3 T4 T5 T6 B1 B2 B3 B4 B5 GB
+V:T1           clef=treble
+V:T2           clef=treble
+V:T3           clef=treble
+V:T4           clef=treble
+V:T5           clef=treble
+V:T6           clef=treble
+V:B1           clef=bass
+V:B2           clef=bass
+V:B3           clef=bass
+V:B4           clef=bass
+V:B5           clef=bass
+V:GB           clef=bass
+% 1
+[V:T1] E3 G3/2 A/2 B3/2 c/2 d3/2 c/2 B/2 A3/2 G/2 F3/2 E/2 | D3 G3 B3 G3 :|
+[V:T2] E3 G3/2 A/2 B3/2 c/2 d3/2 c/2 B/2 A3/2 G/2 F3/2 E/2 | D3 G3 B3 G3 |]
+[V:T3] E3 G3/2 A/2 B3/2 c/2 d3/2 c/2 B/2 A3/2 G/2 F3/2 E/2 | D3 G3 B3 G3 |]
+[V:T4] z2 z2 z2 z2 z2 z2 z2 z2 | D,3 F,3 A,3 G,3 :|
+[V:T5] z2 z2 z2 z2 z2 z2 z2 z2 | D,3 F,3 A,3 G,3 |]
+[V:T6] z2 z2 z2 z2 z2 z2 z2 z2 | D,3 F,3 A,3 G,3 |]
+[V:B1] D,3 G,3 B,3 G,3 :| D,3 G,3 B,3 G,3 |]
+[V:B2] z2 z2 z2 z2 z2 z2 z2 z2 | D,3 F,3 A,3 G,3 |]
+[V:B3] z2 z2 z2 z2 z2 z2 z2 z2 | D,3 F,3 A,3 G,3 |]
+[V:B4] z2 z2 z2 z2 z2 z2 z2 z2 | D,3 F,3 A,3 G,3 |]
+[V:B5] z2 z2 z2 z2 z2 z2 z2 z2 | D,3 F,3 A,3 G,3 |]
+[V:GB] z2 z2 z2 z2 z2 z2 z2 z2 | D,3 G,3 B,3 G,3 |]
